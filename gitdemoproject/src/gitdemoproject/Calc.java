@@ -13,7 +13,7 @@ public class Calc {
 	
 	
 	public void mul(int num1,int num2){
-		System.out.println("hello world is new committed program")
+		System.out.println("hello world is new committed program");
 	}
 	
 	
